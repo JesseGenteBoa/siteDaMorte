@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+h1{
+    font-size: xx-large;
+    color: rgb(227, 118, 2);
+    text-align: center;
+}
+h2{
+    font-size: 90px;
+    color: orange;
+    text-align: center;
+}
+h3{
+    font-size: 60px;
+    color: orange;
+    text-align: center;
+}
